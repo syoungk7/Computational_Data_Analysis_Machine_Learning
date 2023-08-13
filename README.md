@@ -1,5 +1,5 @@
 # Computational_Data_Analysis_Machine_Learning
-## Machine Learning Algorithm with Python and Matlab
+Machine Learning Algorithm with Python and Matlab
 <br>
 ### Contents <br> 
 
