@@ -16,6 +16,18 @@ Machine Learning Algorithm with Python and Matlab
     - t-SNE <br> 
 
 
+### Additional materials
+0. matrix cookbook
+0. The Elements of Statistical Learning: Data Mining, Inference, and Prediction
+    - https://hastie.su.domains/ElemStatLearn/
+0. Foundations of Machine Learning
+    - https://cs.nyu.edu/~mohri/mlbook/
+0. Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares
+    - PDF, Lecture slides, additional exercises, and Python & Julia Language companions
+    - https://web.stanford.edu/~boyd/vmls/
+    - Lecture video: https://www.youtube.com/playlist?list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9
+
+
 <br> <br> <br> 
 Plan to upload <br> 
 Density Estimation <br>
