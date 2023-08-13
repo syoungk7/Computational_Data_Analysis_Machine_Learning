@@ -17,12 +17,12 @@ Machine Learning Algorithm with Python and Matlab
 
 
 ### Additional materials
-0. matrix cookbook
-0. The Elements of Statistical Learning: Data Mining, Inference, and Prediction
+1. matrix cookbook
+2. The Elements of Statistical Learning: Data Mining, Inference, and Prediction
     - https://hastie.su.domains/ElemStatLearn/
-0. Foundations of Machine Learning
+3. Foundations of Machine Learning
     - https://cs.nyu.edu/~mohri/mlbook/
-0. Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares
+4. Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares
     - PDF, Lecture slides, additional exercises, and Python & Julia Language companions
     - https://web.stanford.edu/~boyd/vmls/
     - Lecture video: https://www.youtube.com/playlist?list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9
