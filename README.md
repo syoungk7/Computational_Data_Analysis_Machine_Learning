@@ -1,7 +1,7 @@
 # Computational_Data_Analysis_Machine_Learning
-Machine Learning Algorithm with Python and Matlab
-
-Contents <br> <br>
+## Machine Learning Algorithm with Python and Matlab
+<br>
+### Contents <br> 
 
 0. Introduction to ML <br> 
 1. Clustering <br> 
