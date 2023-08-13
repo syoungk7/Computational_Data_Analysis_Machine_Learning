@@ -4,13 +4,16 @@ Machine Learning Algorithm with Python and Matlab
 Contents <br> <br>
 
 0. Introduction to ML <br>
-Clustering:
-    K-means <br>
+Clustering
+    - K-means <br>
 Spectral Clustering <br>
-Dimensionality Reduction:
-    Principal Component Analysis (PCA), Singular Value Decomposition (SVD), and Latent Semantic Analysis (LSA) <br>
-Non-linear Dimensionality Reduction:
-    ISOMAP with Multi-dimensional scaling (MDS) algorithm and t-SNE <br>
+Dimensionality Reduction
+    - Principal Component Analysis (PCA)
+    - Singular Value Decomposition (SVD)
+    - Latent Semantic Analysis (LSA) <br>
+Non-linear Dimensionality Reduction
+    - ISOMAP with Multi-dimensional scaling (MDS) algorithm
+    - t-SNE <br>
 
 
 <br> <br> <br> 
