@@ -17,7 +17,9 @@ Course: ISYE 6470(Prof. Yao Xie), GT, Summer 2023
 4. Non-linear Dimensionality Reduction <br> 
     - ISOMAP with Multi-dimensional scaling (MDS) algorithm <br> 
     - t-SNE <br> 
-
+5. Density Estimation <br>
+6. Gaussian Mixture Model and EM Algorithm <br>
+7. Basic Optimization <br>
 
 ### Additional materials
 1. matrix cookbook
@@ -33,9 +35,6 @@ Course: ISYE 6470(Prof. Yao Xie), GT, Summer 2023
 
 <br> <br> <br> 
 Plan to upload <br> 
-Density Estimation <br>
-GMM and EM <br>
-Basic Optimization <br>
 Classification <br>
 SVM <br>
 Neural Networks <br>
