@@ -4,7 +4,6 @@
 
 Course: ISYE 6470(Prof. Yao Xie), GT, Summer 2023
 
-
 ### Contents <br> 
 
 0. Introduction to ML <br> 
